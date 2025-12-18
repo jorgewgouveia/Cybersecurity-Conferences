@@ -1,36 +1,6 @@
-# Cybersecurity Conferences 2026
+[Back to main list](../README.md)
 
-This repository lists cybersecurity conferences happening in 2026, categorized by country.
-
-## Structure
-
-The conferences are organized into directories by country. Each country's directory contains a `README.md` file with a table of conferences for that country.
-
-The format for the conference entries is:
-
-| Event Name | Date | Venue | Website | Description |
-|------------|------|-------|---------|-------------|
-
-## Contributing
-
-To add a conference, please find the appropriate country's `README.md` file in the `conferences` directory and add a new row to the table. If the country does not exist yet, please create a new directory for it and a `README.md` file inside it.
-
-## Conference List
-
-### Germany
-
-| Event Name | Date | Venue | Website | Description |
-|------------|------|-------|---------|-------------|
-| CloudFest 2026 | March 23-26, 2026 | Europa-Park, Germany | [https://www.cloudfest.com/](https://www.cloudfest.com/) | This event focuses on internet infrastructure and cloud security. |
-
-### UK
-
-| Event Name | Date | Venue | Website | Description |
-|------------|------|-------|---------|-------------|
-| Gartner Security & Risk Management Summit | September 22-24, 2026 | London, UK | [https://www.gartner.com/en/conferences/emea/security-risk-management-uk](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) | Focuses on the latest trends and strategies in cybersecurity and risk management. |
-| Black Hat Europe | December 2026 | London, UK | [https://www.blackhat.com/](https://www.blackhat.com/) | Known for technical training and briefings on the latest vulnerabilities and exploits. |
-
-### USA
+# Cybersecurity Conferences in USA - 2026
 
 | Event Name | Date | Venue | Website | Description |
 |------------|------|-------|---------|-------------|
