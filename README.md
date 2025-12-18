@@ -13,9 +13,9 @@ To add a conference, please find the appropriate country's `README.md` file in t
 | CloudFest 2026 | March 23-26, 2026 | Europa-Park, Germany | [Link](https://www.cloudfest.com/) | This event focuses on internet infrastructure and cloud security. | 🇩🇪 |
 | Gartner Security & Risk Management Summit | September 22-24, 2026 | London, UK | [Link](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) | Focuses on the latest trends and strategies in cybersecurity and risk management. | 🇬🇧 |
 | Black Hat Europe | TBA, 2026 | London, UK | [Link](https://www.blackhat.com/) | Known for technical training and briefings on the latest vulnerabilities and exploits. | 🇬🇧 |
-| Black Hat Asia | April 21-24, 2026 | Singapore | [Link](https://www.blackhat.com/asia/2026/) | Known for technical training and briefings on the latest vulnerabilities and exploits. | 🇸🇬 |
-| Black Hat Middle East & Africa | December 1-3, 2026 | Saudi Arabia | [Link](https://www.blackhat.com/mena/2026/) | Known for technical training and briefings on the latest vulnerabilities and exploits. | 🇸🇦 |
-| SecTor | October 6-8, 2026 | Canada | [Link](https://sector.ca/) | Canada's premier IT security conference. | 🇨🇦 |
+| Black Hat Asia | April 21-24, 2026 | Marina Bay Sands, Singapore | [Link](https://www.blackhat.com/asia/2026/) | Known for technical training and briefings on the latest vulnerabilities and exploits. | 🇸🇬 |
+| Black Hat Middle East & Africa | December 1-3, 2026 | Malham, Saudi Arabia | [Link](https://www.blackhat.com/mena/2026/) | Known for technical training and briefings on the latest vulnerabilities and exploits. | 🇸🇦 |
+| SecTor | October 6-8, 2026 | Toronto, Canada | [Link](https://sector.ca/) | Canada's premier IT security conference. | 🇨🇦 |
 | RSA Conference (RSAC) | March 23-26, 2026 | San Francisco, USA | [Link](https://www.rsaconference.com/) | Attracts the entire cybersecurity industry, including CISOs, practitioners, vendors, and policymakers. | 🇺🇸 |
 | Black Hat USA | August 1-6, 2026 | Las Vegas, USA | [Link](https://www.blackhat.com/) | Known for technical training and briefings on the latest vulnerabilities and exploits. | 🇺🇸 |
 | DEF CON | August 6-9, 2026 | Las Vegas, USA | [Link](https://www.defcon.org/) | The world's largest hacker convention, offering a hands-on experience for security researchers, ethical hackers, and policy experts. | 🇺🇸 |
@@ -30,3 +30,10 @@ To add a conference, please find the appropriate country's `README.md` file in t
 | IAAP Global Privacy Summit | March 30-31, 2026 | Washington, D.C., USA | [Link](https://iapp.org/conference/global-privacy-summit/) | The world’s premier privacy and data protection conference. | 🇺🇸 |
 | International Conference on Cyber Security (ICCS) | July 14-16, 2026 | NYC | [Link](https://iccs.fordham.edu/) | An international conference on cyber security. | 🇺🇸 |
 | Blue Team Con | September 6-7, 2026 | Chicago | [Link](https://blueteamcon.com/) | A conference for cybersecurity defenders. | 🇺🇸 |
+
+## Community Standards
+
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose changes.
+- Read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a welcoming community.
+- Report vulnerabilities via [SECURITY.md](SECURITY.md).
+- Get help in [SUPPORT.md](SUPPORT.md).
